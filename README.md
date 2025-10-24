@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anushka2608
 - 👀 I’m interested in learning and implementing my coding capabilities
-- 🌱 I’m currently learning  C++
+- 🌱 I’m currently engrossed in web developement
 - 💞️ I’m looking to improve my skills in the field
 - 📫 You can  reach me via email
 
